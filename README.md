@@ -9,4 +9,5 @@ pipenv install django( for installing django framework for the created virtual e
 
 python twitterservice.py runserver(running the service on localhost)
 
-acessing the service: http://127.0.0.1:8000/main/home/
+
+Acessing the service: http://127.0.0.1:8000/main/home/
